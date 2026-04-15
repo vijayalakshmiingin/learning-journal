@@ -6,7 +6,7 @@
 
 ## What Surprised Me
 
--
+- Claude does work within seconds compared to manual entries
 
 ## Commands I Used
 
@@ -19,4 +19,4 @@
 
 ## Questions I Have
 
--
+- Need closure and hands on on pull and pull request
