@@ -4,7 +4,7 @@ This is my journal documenting my 30-day journey learning AI development with Cl
 
 ## Week 1
 
-- 
+- Day 1: Set up development environment, learned terminal basics, created first HTML page with Claude Code
 - 
 - 
 
